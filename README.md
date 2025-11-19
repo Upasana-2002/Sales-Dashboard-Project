@@ -11,8 +11,6 @@ This Power BI dashboard provides a comprehensive analysis of sales data for a co
 ---
 
 ## Dashboard Pages
-
-## Dashboard Pages
 1. **Home** – KPI cards (Total Sales, Sales Growth %, Profit %), Sales Trend, Product Line, Deal Size, Top Territories  
 2. **Customer** – Customer sales analysis, top customers, deal sizes  
 3. **Product** – Product performance, quantity, and sales distribution  
